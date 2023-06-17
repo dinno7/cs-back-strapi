@@ -3,7 +3,16 @@
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
 
 ### `develop`
+First clone this repo in some directory in your PC:
 
+```
+git clone https://github.com/dinno7/cs-back-strapi
+```
+Then install dependencies:
+Go to directory that cloned and run below command:
+```
+npm install
+```
 Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
 
 ```
